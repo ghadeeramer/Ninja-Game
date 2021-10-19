@@ -1,2 +1,2 @@
 # Ninja-Game
-it's First code with Coding Dojo platform ^_^
+it's First JS code with Coding Dojo platform ^_^
